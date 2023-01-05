@@ -1,0 +1,12 @@
+[package]
+name = "font_translate"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[build-dependencies]
+cc = "1.0.78"
+[dependencies]
+bitmaps = "3.2.0"
+rustbitmap = "0.1.0"

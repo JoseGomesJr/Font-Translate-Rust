@@ -1,0 +1,8 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Misra" enabled="true" level="WEAK WARNING" enabled_by_default="true" editorAttributes="INFO_ATTRIBUTES">
+      <option name="myMisraCChecks" value="clion-misra-c2012-*,-clion-misra-c2012-10-5,-clion-misra-c2012-19-2,-clion-misra-c2012-11-5" />
+    </inspection_tool>
+  </profile>
+</component>
